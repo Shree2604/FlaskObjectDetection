@@ -9,7 +9,7 @@ cycler==0.11.0
 decorator==5.1.0
 entrypoints==0.3
 Flask==2.1.1
-flask-bootstrap==4.5.3
+
 
 
 html5lib==1.1
