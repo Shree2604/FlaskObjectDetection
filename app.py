@@ -3,7 +3,8 @@ from flask import Flask, render_template, request, redirect, url_for, send_from_
 
 from flask_bootstrap import Bootstrap
 
-from werkzeug import secure_filename
+from werkzeug.utils import secure_filename
+
 import numpy as np
 import os
 import six.moves.urllib as urllib
