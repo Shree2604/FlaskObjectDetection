@@ -1,5 +1,5 @@
 pip==23.2.1
-flask_bootstrap==4.6.0
+flask_bootstrap==4.5.0
 backports.weakref==1.0rc1
 bleach==4.1.0
 certifi==2021.5.30
